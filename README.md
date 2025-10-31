@@ -1,4 +1,4 @@
-## Descripción General
+## Descripción General 🎯
 
 Apunta y **haz clic** para disparar un proyectil desde la esquina inferior izquierda.  
 Balones azules aparecen desde la derecha y se desplazan hacia la izquierda.  
@@ -26,7 +26,7 @@ Esta versión agrega:
 
 ---
 
-## Cambios Realizados
+## Cambios Realizados🛠️
 
 Se implementaron las siguientes mejoras sobre el juego base **Cannon (FreeGames)**:
 
@@ -43,4 +43,5 @@ Se implementaron las siguientes mejoras sobre el juego base **Cannon (FreeGames)
 **Autores**
 
 Lizeth Jaqueline Balderas Sánchez
+
 Felipe Gutiérrez Herrera
